@@ -1,6 +1,7 @@
 # プロダクト開発 実践編
 
 開発文書は Notion で共有しています。
+
 https://www.notion.so/Hariness-266831307a78803c86aaea907ad52e66?source=copy_link
 
 ## この Railway で行うこと
@@ -13,5 +14,3 @@ https://www.notion.so/Hariness-266831307a78803c86aaea907ad52e66?source=copy_link
 
 この リポジトリを Clone した後はリポジトリ名をオリジナルのアプリ名に変更しましょう。
 また、こちらの README を製作するアプリ用に修正し、GitHub を見にきてくれた人にアプリケーションの大枠が伝わるように工夫してアレンジしてみてください。（開発工程が終わってからで問題ございません。）
-
-test
